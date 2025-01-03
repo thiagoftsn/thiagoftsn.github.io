@@ -1,8 +1,15 @@
 title: "Thiago Nascimento"
 description: ".NET Engineer"
 baseurl: ""
-url: ""
+url: "https://thiagoftsn.github.io/"
+
 theme: cvless
+
+# author settings
+author:
+  name: Thiago Nascimento
+  email: thiagoftsn@hotmail.com
+  photo: assets/files/photo.jpg
 
 exclude:
   - demo/
