@@ -5,14 +5,13 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi, I'm Thiago!
 
-This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
+I'm a .NET Engineer with a strong focus on building scalable, high-performance applications and cloud-native solutions. My expertise includes ASP.NET Core, C#, and CI/CD pipelines, enabling me to deliver modern and resilient software solutions.
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+I’m passionate about learning new technologies and frameworks. Currently, I’m exploring Angular and sharing my projects on GitHub as part of my journey to grow and innovate.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Feel free to explore my projects and reach out—I’d love to connect and collaborate!
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
 
-{% include archive.html %}
+If you'd like to see my full CV, please [click here](cv.md), and [here](assets/files/cv.pdf) to download a print version.

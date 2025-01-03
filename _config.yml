@@ -1,13 +1,13 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Thiago Nascimento
+description: .NET Engineer
 baseurl: ""
 url: https://thiagoftsn.github.io/
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: .NET Engineer
+# tagshort: .NET Engineer
 
 # author settings
 author:
@@ -19,16 +19,16 @@ phone: +1 234 567 890
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
+  # facebook: https://www.facebook.com/username
+  # x: https://x.com/username
+  # mastodon: https://mastodon.social/@username
+  # bluesky: https://bsky.app/profile/username.bsky.social
+  # instagram: https://www.instagram.com/username
+  linkedin: https://www.linkedin.com/in/thiagoftsn
+  # xing: https://www.xing.com/profile/username
+  # stackoverflow: https://stackoverflow.com/users/0000000/username
+  # medium: https://medium.com/@username
+  github: https://github.com/thiagoftsn
 
 # build settings
 permalink: pretty
